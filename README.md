@@ -1,9 +1,7 @@
 ### Olá eu sou Rafael Ribeiro 👋
 
-- 🔭 Hoje trabalho com fullstack
-- 🌱 Estudando React/Typescript
+- 🔭 Fullstack Developer
 - 📫 Contate-me no email: suporte.devribeiro@gmail.com
-- 😄 Pronouns: ele/dele
 
 <div>
   <a href="https://github.com/asribeirorafael1">
